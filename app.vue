@@ -1,26 +1,27 @@
 <template>
   <div>
     <!-- Header -->
+    <Header />
     <div>
-    <!-- Sidebar -->
+      <!-- Sidebar -->
 
-    <!-- Main Section -->
-    <main>
+      <!-- Main Section -->
+      <main>
 
-      <!-- Status Cards -->
+        <!-- Status Cards -->
 
-      <!-- Customer List -->
+        <!-- Customer List -->
 
-      <!-- Sales Chart -->
+        <!-- Sales Chart -->
 
-      <!-- Recent Orders -->
-    </main>
+        <!-- Recent Orders -->
+      </main>
 
-    <div>
-      <!-- Profile Info -->
+      <div>
+        <!-- Profile Info -->
 
-      <!-- Reminders -->
-    </div>
+        <!-- Reminders -->
+      </div>
     </div>
   </div>
 </template>
