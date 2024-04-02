@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     exposeConfig: true,
     viewer: true,
   },
+  css: ['~/assets/css/tailwind.css'],
   app: {
     head: {
       title: "Nuxtjs-Tailwind-Dashboard",
