@@ -1,7 +1,7 @@
 <template>
-    <header class="sticky top-0 z-20 border-b bg-backfround/80 background-blur">
+    <header class="sticky top-0 z-20 border-b bg-background/80 backdrop-blur">
         <!-- Flex Container -->
-        <div class="container-flex h-16 items-center justify-between">
+        <div class="container flex h-16 items-center justify-between">
             <!-- Logo & Page Title-->
             <div class="flex items-center gap-3">
                 <!-- Logo -->
