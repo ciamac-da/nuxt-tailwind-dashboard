@@ -15,6 +15,17 @@
             class="flex h-9 shrink-0 items-center justify-center rounded-full bg-background">
             <Icon name="heroicons:sun" class="h-5 w-5" />
             </button>
+            <!-- Profile dropdown menu -->
+            <HMenu as="div" class="relative">
+                <HMenuButton
+                class="flex h-9 shrink-0 items-center justify-center rounded-full bg-background">
+                <img
+                src="https://randomuser.me/api/portraits/med/lego/1.jpg"
+                alt="User Logged In"
+                class="w-full h-full"
+                >
+            </HMenuButton>
+            </HMenu>
         </div>
         </div>
     </header>
